@@ -1,0 +1,1 @@
+gcc -o fetch.exe fetch.c
